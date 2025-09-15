@@ -1,7 +1,8 @@
 Merhabalar, 
 Gönderdiğiniz Case Study üzerine yaptığım çalışmaları aşağıda ekliyorum.
 
-1. Task için Test Caseler: https://docs.google.com/spreadsheets/d/1kuklrbR4zO5UQpHJXJmrsxeGhrkEktHQBBWbVxehlxk/edit?usp=sharing  Linkinde bulabilirsiniz.
+1. Task için Test Case ID leri ile linklenmiş bir şekilde Analiz Dökümanını https://docs.google.com/document/d/1qKA0elW3SnAHOWjgB-OP4UTA0v_8GfeKu1YhUXbvRgU/edit?usp=sharing
+   Task için Test Caseler: https://docs.google.com/spreadsheets/d/1kuklrbR4zO5UQpHJXJmrsxeGhrkEktHQBBWbVxehlxk/edit?usp=sharing  Linkinde bulabilirsiniz.
 
 2. Task için gerekli workspace'i linkinde bulabilirsiniz: [https://www.postman.com/lively-crater-540606/workspace/eteration-workspace/collection/24052283-0061e1e1-0abd-4b78-96c0-2ced9d64009e?action=share&source=copy-link&creator=24052283](https://app.getpostman.com/join-team?invite_code=84e40c21dddfb14b2805553043f8b842e668051f3bcdeee8eeade242e5b8adfc&target_code=d3c3ebf700cdc785af159a81456f3602)
 
